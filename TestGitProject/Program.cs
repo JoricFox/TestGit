@@ -9,6 +9,7 @@ namespace TestGitProject
 {
     public class Program
     {
+        /*hotfix1*/
         public static void Main(string[] args)
         {
             var host = new WebHostBuilder()
